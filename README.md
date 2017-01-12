@@ -1,2 +1,2 @@
-# TIcTacToe
-A DES Encryption/Decryption application with AI game Engine, programmed in C# and designed with Windows Forms. For EC447 Lab 7.
+# DES-encryptor
+An Encryption/Decryption utility application using DES protocol and a key to encrypt or decrypt files. Programmed in C# and designed with Windows Forms.
